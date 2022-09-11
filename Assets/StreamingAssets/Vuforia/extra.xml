@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="extra" motionHint="static" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="extras_assembly" assemblyId="5e953a64d53043768c62b7e5dbc0a87a">
+<Part name="extra" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0138911 -0.153456 1.38422" rotation="AD: 0.995881 -0.487191 0.227752 135.282" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
